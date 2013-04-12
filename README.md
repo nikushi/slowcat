@@ -6,7 +6,7 @@ slow cat is like cat command, prints lines of the files for every cycle.
 
 print 10 lines, sleep 1 second, print 10 lines, ...
 
-    $ slowcat -s 1 -n 10
+    $ slowcat -s 1 -n 10 filename
 
 ## Contributing
 

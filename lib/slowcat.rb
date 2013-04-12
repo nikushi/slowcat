@@ -1,5 +1,5 @@
 require 'slowcat/version'
 
-module SlowCat
+module Slowcat
   # Your code goes here...
 end
